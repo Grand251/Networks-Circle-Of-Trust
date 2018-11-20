@@ -2,12 +2,17 @@
 Lab Project for Networks class
 
 Compile Commands:
+  
   javac PortManager.java
+  
   javac MessageHandler.java
+  
   javac Master.java
   
 Run Commands:
+
   java Master <port_number>
+  
   python Slave.py <master_ip> <master_port>
   
 Usage:
