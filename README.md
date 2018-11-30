@@ -1,4 +1,4 @@
-# Networks-Circle-Of-Trust
+# Networks-Ring-Of-Trust
 Lab Project for Networks class
 
 ## Compile Commands:
